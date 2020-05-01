@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TDMTP1EXO5</string>
+    <string name="send">SPAM Contacts</string>
+    <string name="load">LOAD contacts</string>
+    <string name="Permission"> Have you the permission to LOAD the contactes ?</string>
+
+</resources>
